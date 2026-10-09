@@ -13,7 +13,7 @@ Páginas públicas que a Play Store e o AdMob exigem. Tudo estático: é só pub
 
 1. **`app-ads.txt`:** já tem o ID de editor do AdMob (`pub-1790492091178460`). Se um dia
    trocar de conta AdMob, troque o ID lá.
-2. **E-mail de contato:** as páginas usam `rrabelloleonardo@gmail.com`. Para trocar, procure e
+2. **E-mail de contato:** as páginas usam `utlapps.feedback@gmail.com`. Para trocar, procure e
    substitua esse endereço nos três arquivos `.html`.
 3. **Link da Play Store** (`index.html`): já aponta para
    `https://play.google.com/store/apps/details?id=com.leonardorabello.wo`; funciona depois da
